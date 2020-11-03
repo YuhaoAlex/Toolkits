@@ -1,1 +1,5 @@
+name = 'ZTYG'
 
+mail = "Dear {}, \n\nMy name is Yuhao Zhang. Currently seeking junior level Data Analyst related opportunities, and I have internships as Data analyst and data scientist. I noticed that you have some roles opening. I'm wondering if we can talk about that. I really appreciate your time and consideration.\n\nSincerely,\nYuhao".format(name)
+
+print(mail)
